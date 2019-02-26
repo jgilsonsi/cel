@@ -297,7 +297,7 @@ msgstr ""
 
 #: cel.i18n.php:6
 msgid "Reports"
-msgstr "Ralatórios"
+msgstr "Relatórios"
 
 #: views/search.php:16
 msgid "Search"
